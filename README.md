@@ -1,6 +1,8 @@
 # Demo-dm
 Demonistration of mark down
-*this is italic*
+This is *italic*and this is __bold__
+And this is ***bold italic*** 
+
 
 
 An unordered list of names 
